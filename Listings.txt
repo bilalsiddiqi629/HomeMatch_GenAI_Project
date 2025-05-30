@@ -1,0 +1,80 @@
+Neighborhood: Cedar Valley Hills
+Price: $1,020,000
+Bedrooms: 5
+Bathrooms: 4
+House Size: 3,000 sqft
+Description: This spacious 5-bedroom home in Cedar Valley Hills offers refined comfort with panoramic mountain views. Featuring a chef’s kitchen, vaulted ceilings, and an expansive deck with built-in grill, this home is made for entertaining.
+Neighborhood Description: Cedar Valley Hills offers elevated living with a backdrop of natural beauty. It's minutes from hiking trails, golf courses, and highly rated dining spots, blending nature and convenience.
+
+Neighborhood: Maple Grove Estates
+Price: $875,000
+Bedrooms: 3
+Bathrooms: 2.5
+House Size: 2,200 sqft
+Description: Nestled in the peaceful enclave of Maple Grove Estates, this 3-bedroom, 2.5-bathroom home is a perfect fusion of comfort and elegance. The open-concept design features rich hardwood flooring, a gourmet kitchen with marble countertops, and a cozy sunroom drenched in natural light. The backyard oasis includes a deck and a fire pit area—ideal for evening relaxation.
+Neighborhood Description: Maple Grove Estates is a family-friendly neighborhood known for its tree-lined streets, excellent schools, and close-knit community feel. Residents enjoy weekend farmers markets, local coffee shops, and scenic walking trails.
+
+
+Neighborhood: Willow Park Terrace
+Price: $740,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1,850 sqft
+Description: Stylish and sleek, this 3-bedroom gem boasts a minimalistic design with high ceilings and abundant natural light. The open floor plan leads to a beautifully landscaped garden ideal for intimate gatherings.
+Neighborhood Description: Willow Park Terrace is a serene suburban hideaway with bike-friendly roads, quaint shops, and easy transit options for commuters.
+
+Neighborhood: Oak Ridge Meadows
+Price: $990,000
+Bedrooms: 4
+Bathrooms: 3.5
+House Size: 2,700 sqft
+Description: Live lavishly in this modern retreat featuring smart home tech, a large home office, and a resort-style backyard with a saltwater pool.
+Neighborhood Description: Oak Ridge Meadows is favored for its lush parks, top schools, and blend of urban convenience with suburban calm.
+
+Neighborhood: Summit Creek View
+Price: $1,150,000
+Bedrooms: 5
+Bathrooms: 4
+House Size: 3,300 sqft
+Description: This 5-bedroom executive home offers striking views, a dramatic entryway, and a state-of-the-art kitchen designed for culinary exploration.
+Neighborhood Description: Summit Creek View attracts professionals and families alike with its elevated terrain, private trails, and artisan shopping centers.
+
+Neighborhood: Pine Hollow Glen
+Price: $695,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1,950 sqft
+Description: A charming cottage-style home with vaulted ceilings and a sun-drenched breakfast nook. The master suite features a clawfoot tub and custom vanity.
+Neighborhood Description: Pine Hollow Glen is a cozy village-style area with seasonal festivals, community gardens, and vintage markets.
+
+Neighborhood: Crystal Bay Shores
+Price: $1,300,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,900 sqft
+Description: Coastal elegance meets contemporary design in this waterfront property with expansive glass windows and a rooftop terrace.
+Neighborhood Description: Crystal Bay Shores offers seaside luxury, dock access, and walkability to seafood bistros and boutique marinas.
+
+Neighborhood: Redwood Heights
+Price: $835,000
+Bedrooms: 3
+Bathrooms: 2.5
+House Size: 2,100 sqft
+Description: A modern yet earthy 3-bedroom nestled in the hills with exposed wood beams, eco-friendly features, and floor-to-ceiling windows.
+Neighborhood Description: Redwood Heights is a sustainable, nature-loving community with local co-ops, yoga studios, and wooded trails.
+
+Neighborhood: Brookstone Hills
+Price: $910,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,600 sqft
+Description: A spacious, open-layout home with designer upgrades throughout. The private study and spa-style master bath add touches of luxury.
+Neighborhood Description: Brookstone Hills is popular for its community feel, with highly rated schools, a town center, and local events year-round.
+
+Neighborhood: Silverlake Pointe
+Price: $1,050,000
+Bedrooms: 4
+Bathrooms: 3.5
+House Size: 2,800 sqft
+Description: This elegant 4-bedroom estate features a circular driveway, grand foyer, and an outdoor lounge with a fire feature and summer kitchen.
+Neighborhood Description: Silverlake Pointe is an upscale lakefront enclave with walking trails, private docks, and high-end retail within minutes.
